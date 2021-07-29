@@ -1,3 +1,13 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/* common fonts style */
+body{
+font-family: 'Poppins', sans-serif;
+}
+
+/* css style */
+
 .cbr-btn-primary{
     background-color: #E76F51;
 
@@ -14,4 +24,7 @@
 }
 .cbr-grayscale{
     filter: grayscale(100%);
-  }
+}
+.cbr-text-secondary{
+    color: #7E848C;
+}
