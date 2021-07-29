@@ -1,0 +1,17 @@
+.cbr-btn-primary{
+    background-color: #E76F51;
+
+}
+.cbr-bg-gradient{
+    background-color: #264653;
+}
+.cbr-text-warning{
+    color: #E0E0E0;
+
+}
+.cbr-text-primary{
+    color: #E76F51;
+}
+.cbr-grayscale{
+    filter: grayscale(100%);
+  }
